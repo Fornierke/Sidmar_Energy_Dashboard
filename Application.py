@@ -10,7 +10,7 @@ import calendar
 st.set_page_config(layout="wide", page_title="ArcelorMittal SIDGAL Energy Dashboard")
 
 # Define the absolute file path 
-EXCEL_FILE = '/Users/thomasfornier/Desktop/ThesisPython/5minData/Pickle dataframe/Time_Series_Analyse_Mean_Only.xlsx'
+EXCEL_FILE = 'Time_Series_Analyse_Mean_Only.xlsx'
 
 # --- MAPPINGS ---
 
